@@ -2,6 +2,8 @@
 
 DiamondFox is an Android utility for supported Samsung Galaxy S23 Ultra firmware builds.
 
+> <img width="200" height="409" alt="screeeee" src="https://github.com/user-attachments/assets/70e2e385-999f-4169-87cd-fd7592ea833e" />
+
 This repository contains no source code. It is currently used for project information, releases and documentation.
 
 ## Current status
