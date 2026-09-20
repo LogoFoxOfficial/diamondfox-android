@@ -13,7 +13,8 @@ DiamondFox can currently perform temporary root on supported firmware.
 ### Supported firmware
 
 - **ZZHL:** fully supported and verified with the Android app
-- **FZG1, FZH3:** are available, but it's not yet verified if these exploits work right now.
+- **ZZI8:** fully supported and verified with the Android app
+- **FZG1, FZH3:** Deprecated
 
 Root access is temporary and is lost after a reboot.
 
@@ -25,17 +26,6 @@ Root access is temporary and is lost after a reboot.
 - Root status reporting
 
 At the moment, DiamondFox does not provide additional root management features.
-
-## Planned
-
-Planned features include:
-
-- DiamondFox Root Backend
-- Per-app root access with allow/deny prompts
-- Persistent root permission policies
-- `su` compatibility for third-party root apps
-- Automatic continuation of a pending root operation after a required reboot
-- Additional device diagnostics and research utilities
 
 ## Notes
 
